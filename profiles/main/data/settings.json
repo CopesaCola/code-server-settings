@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "debug.openDebug": "openOnDebugBreak",
+    "editor.tabCompletion": "off",
+    "powershell.integratedConsole.focusConsoleOnExecute": true,
+    "files.defaultLanguage": "",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": false,
+    "powershell.codeFolding.showLastLine": true,
+    "powershell.sideBar.CommandExplorerVisibility": true,
+    "powershell.integratedConsole.startInBackground": true,
+    "security.allowedUNCHosts": [
+        "192.168.86.54"
+    ]
+}
